@@ -22,3 +22,4 @@ print(x.upper())
 print(x.strip().upper())
 a = "hello, world!"
 print(a.split(","))
+print("I am learning python data types")
