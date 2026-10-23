@@ -60,5 +60,9 @@ theseList.sort(reverse = True)
 print(theseList)
 thoseList = theseList.copy()
 print(thoseList)
+#using list() method
+#using slice: operator
+#joining lists
+
 
 
