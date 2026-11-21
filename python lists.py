@@ -8,7 +8,7 @@ print(newList[-2])
 oldList = list(('mango', 'orange', 'pineapple', 'grapes', 'kiwi', 'melon', 'cherry'))
 print(oldList[2:5])
 print(oldList[:4])
-print(oldList[3:])
+print(oldList[2:])
 print(oldList[-3:-1])
 myList = ['apple', 'mango', 'kiwi', 'melon']
 if 'apple' in myList:
