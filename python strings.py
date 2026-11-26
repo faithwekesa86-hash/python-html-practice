@@ -36,4 +36,4 @@ print(x)
 x = 'fri' if num ==5 else 'sat' if num == 6 else 'sun' if num == 7 else 'weekday'
 print(x)
 fruits = ['apple', 'banana', 'cherry']
-print('banana' in fruits)
+print('apple' in fruits)
